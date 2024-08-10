@@ -35,3 +35,14 @@ No installation is required. Simply download the files and open the **'index.htm
 
 4. **Error Handling**: If no values are entered or if the values are not in the correct format, an error message will be displayed prompting the user to enter valid values.
 
+## Files
+
+1. **index.html**: The main HTML file that contains the structure of the calculator.
+
+2. **styles.css**: The CSS file that styles the calculator, including the gradient background, hover effects, and layout.
+
+3. **script.js**: The JavaScript file that handles the logic for calculating the linear regression, validating inputs, and plotting the data.
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
