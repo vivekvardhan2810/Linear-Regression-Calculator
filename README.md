@@ -43,6 +43,10 @@ No installation is required. Simply download the files and open the **'index.htm
 
 3. **script.js**: The JavaScript file that handles the logic for calculating the linear regression, validating inputs, and plotting the data.
 
+## Example
+
+![Screenshot 2024-08-08 110926](https://github.com/user-attachments/assets/ccb8157a-6996-4f31-bcef-f30bab37b76c)
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your improvements.
