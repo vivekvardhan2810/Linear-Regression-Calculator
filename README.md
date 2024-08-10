@@ -19,11 +19,15 @@ No installation is required. Simply download the files and open the **'index.htm
 
 1. **Input Data**: Enter your data points in the text area. Each data point should be in the format x,y, with one point per line. For example:
 
-1,2
-2,3
-3,5
-4,4
-5,6
+    1,2
+
+    2,3
+
+    3,5
+
+    4,4
+
+    5,6
 
 2. **Calculate Regression**: Click the "Calculate Regression" button to calculate the best-fit linear equation.
 
