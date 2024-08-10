@@ -13,5 +13,21 @@ This is a simple web-based Linear Regression Calculator built with HTML, CSS, an
 
 ## Installation
 
-No installation is required. Simply download the files and open the index.html file in your web browser.
+No installation is required. Simply download the files and open the **'index.html'** file in your web browser.
+
+## Usage
+
+1. **Input Data**: Enter your data points in the text area. Each data point should be in the format x,y, with one point per line. For example:
+
+1,2
+2,3
+3,5
+4,4
+5,6
+
+2. **Calculate Regression**: Click the "Calculate Regression" button to calculate the best-fit linear equation.
+
+3. **View Results**: The equation of the regression line will be displayed, and the data points along with the regression line will be plotted on the canvas below.
+
+4. **Error Handling**: If no values are entered or if the values are not in the correct format, an error message will be displayed prompting the user to enter valid values.
 
